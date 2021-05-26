@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<!DOCTYPE HTML> 
+<html> 
+    <head> 
+        <title>
+          USELESS?
+        </title>
+    </head> 
+      
+    <body style = "text-align:center;">
+           
+        <p id = "GFG_UP" style =
+            "font-size: 16px; font-weight: bold;">     
+        </p>
+          
+        <button onclick = "gfg_Run()"> 
+            Click here
+        </button>
+          
+        <p id = "GFG_DOWN" style =
+            "color:green; font-size: 20px; font-weight: bold;">
+        </p>
+          
+        <script>
+            var el_up = document.getElementById("GFG_UP");
+            var el_down = document.getElementById("GFG_DOWN");
+          
+            el_up.innerHTML = str;
+          
+            function changeColor(color) {
+                document.body.style.background = color;
+            }
+             
+            function gfg_Run() {
+                changeColor('black');
+alert("what if it does something")
 
-You can use the [editor on GitHub](https://github.com/adechack12/BUTTON.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+        var audio = document.getElementById("audio");
+        audio.play();
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adechack12/BUTTON.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   }
+        </script> 
+    </body> 
+</html>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+<Credits to GeeksforGeeks and letting me steal this entire code.>
+ <audio id="audio" src="https://drive.google.com/file/d/1DMJQ7k1EmdI8k_ULIQfHQjpDh3jm0uE7/view"></audio>
